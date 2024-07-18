@@ -1,3 +1,3 @@
 {
-  "rewrites": [{ "source": "/api/sitemap.xml", "destination": "/sitemap.xml" }]
+  "rewrites": [{ "destination": "/api/sitemap.xml", "source": "/sitemap.xml" }]
 }
